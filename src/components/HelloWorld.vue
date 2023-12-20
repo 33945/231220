@@ -17,6 +17,7 @@ const count = ref(0);
         >
             count is {{ count }}
         </button>
+        <p>Maybe this is a simple example, but if it works, then I congratulate you for it</p>
         <p>
             Edit
             <code>components/HelloWorld.vue</code>
